@@ -1,0 +1,19 @@
+{
+  "name": "star-vestments",
+  "version": "1.0.0",
+  "description": "cs326 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomicGeoAssassins/star-vestments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtomicGeoAssassins/star-vestments/issues"
+  },
+  "homepage": "https://github.com/AtomicGeoAssassins/star-vestments#readme"
+}

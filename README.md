@@ -1,2 +1,2 @@
-# rename_me
+# star-vestments
 cs326 project
